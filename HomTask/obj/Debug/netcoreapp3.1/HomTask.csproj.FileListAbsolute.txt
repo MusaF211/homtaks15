@@ -1,0 +1,13 @@
+C:\Users\ACER A317\Desktop\HomTask\HomTask\obj\Debug\netcoreapp3.1\HomTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER A317\Desktop\HomTask\HomTask\obj\Debug\netcoreapp3.1\HomTask.AssemblyInfoInputs.cache
+C:\Users\ACER A317\Desktop\HomTask\HomTask\obj\Debug\netcoreapp3.1\HomTask.AssemblyInfo.cs
+C:\Users\ACER A317\Desktop\HomTask\HomTask\obj\Debug\netcoreapp3.1\HomTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER A317\Desktop\HomTask\HomTask\bin\Debug\netcoreapp3.1\HomTask.exe
+C:\Users\ACER A317\Desktop\HomTask\HomTask\bin\Debug\netcoreapp3.1\HomTask.deps.json
+C:\Users\ACER A317\Desktop\HomTask\HomTask\bin\Debug\netcoreapp3.1\HomTask.runtimeconfig.json
+C:\Users\ACER A317\Desktop\HomTask\HomTask\bin\Debug\netcoreapp3.1\HomTask.runtimeconfig.dev.json
+C:\Users\ACER A317\Desktop\HomTask\HomTask\bin\Debug\netcoreapp3.1\HomTask.dll
+C:\Users\ACER A317\Desktop\HomTask\HomTask\bin\Debug\netcoreapp3.1\HomTask.pdb
+C:\Users\ACER A317\Desktop\HomTask\HomTask\obj\Debug\netcoreapp3.1\HomTask.dll
+C:\Users\ACER A317\Desktop\HomTask\HomTask\obj\Debug\netcoreapp3.1\HomTask.pdb
+C:\Users\ACER A317\Desktop\HomTask\HomTask\obj\Debug\netcoreapp3.1\HomTask.genruntimeconfig.cache
